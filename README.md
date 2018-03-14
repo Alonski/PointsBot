@@ -4,7 +4,7 @@ Ethereum ERC20 Token Bot - Plugins for Slack, Riot, WhatsApp and more
 # Purpose
 The purpose of PointsBot is to 
 - facilitate the distribution of points by circle members
-- collate a summary points awarded in a given time period
+- collate a summary of points awarded in a given time period
 - calculate the amount of ETH rewarded to points "Holders"
 - transfer ETH to points holders 
 
