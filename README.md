@@ -5,7 +5,9 @@ Ethereum ERC20 Token Bot - Plugins for Slack, Riot, WhatsApp and more
 The purpose of PointsBot is to 
 - facilitate the distribution of points by circle members
 - collate a summary points awarded in a given time period
-- calculate the amount of ETH rewarded to 
+- calculate the amount of ETH rewarded to points "Holders"
+- transfer ETH to points holders 
+
 
 # Background
 There are four circles of authority within the Giveth Community.
